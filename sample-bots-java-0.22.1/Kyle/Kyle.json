@@ -1,0 +1,14 @@
+{
+  "name": "Kyle",
+  "version": "1.0",
+  "authors": [
+    "Bernardo Nilson"
+  ],
+  "description": "A sample bot",
+  "homepage": "",
+  "countryCodes": [
+    "br"
+  ],
+  "platform": "JVM",
+  "programmingLang": "Java 11"
+}
